@@ -190,7 +190,7 @@ If your require help with any of the above, see the [More Resources](#more-resou
   - Joseph Godard 
   - Adam Donen 
 - _[Modernist Theme][ghTheme]_ Authors: 
-  -_[Steve Smith][ghSS]_
+  - _[Steve Smith][ghSS]_
   - _[Ben Balter][ghBB]_ 
   - _[Parker Moore][ghPM]_
   - _[Tekaoh][ghTekaoh]_
