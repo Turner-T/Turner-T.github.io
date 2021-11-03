@@ -3,6 +3,7 @@ layout: default
 ---
 
  <h1 style = "text-align:center;"> Tanisha Turner </h1>
+ 
  ---
 <div align="center"> <p> (204) 555 - 0123 <br> Turnert1@myumanitoba.ca <br> Winnipeg, MB </p> </div>
 
