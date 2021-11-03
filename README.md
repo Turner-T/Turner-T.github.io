@@ -92,7 +92,7 @@ If your require help with any of the above, see the [More Resources](#more-resou
 >
 >### 4. Create New Repository
 > Now we need to create the GitHub repository that will host your static site. In _Modern Technical Writing_, **Andrew Etter** notes that while a version control system, such as git, may be overkill for what we're using it for, it has better performance than other options, allows for offline work and shows any possible employers that you are comfortable of using modern tools in your work.
->- Navigate to **[github.com][ghLink]** in a browser
+>- Navigate to _[github.com][ghLink]_ in a browser
 >- Sign-in to your GitHub account
 >- Click your profile picture at the top right of the screen
 >- Navigate to _Your repositories_
@@ -173,7 +173,7 @@ If your require help with any of the above, see the [More Resources](#more-resou
 - _[Github][ghLink]_
 - Command Line Tutorials for _[Windows][winLink], [Mac][macLink],_ and _[Linux][linLink]_
 - [Markdown Tutorial][mdTutorial]
--_[Markdown Editors][mdEditors]_
+- _[Markdown Editors][mdEditors]_
 - GitHub _[Account Tutorial][ghAccount]_
 - GitHub _[Personal Access Token][ghToken]_
 - _[Installing Git][gitInstall]_
@@ -190,6 +190,7 @@ If your require help with any of the above, see the [More Resources](#more-resou
   - Joseph Godard 
   - Adam Donen 
 - _[Modernist Theme][ghTheme]_ Authors: 
+  -_[Steve Smith][ghSS]_
   - _[Ben Balter][ghBB]_ 
   - _[Parker Moore][ghPM]_
   - _[Tekaoh][ghTekaoh]_
@@ -229,6 +230,7 @@ If your require help with any of the above, see the [More Resources](#more-resou
 [jkThemes]: https://jekyllrb.com/docs/themes/
 
 [ghTheme]: https://github.com/pages-themes/modernist
+[ghSS]: https://github.com/orderedlist
 [ghBB]: https://github.com/benbalter
 [ghPM]: https://github.com/parkr
 [ghTekaoh]: https://github.com/Tekaoh
